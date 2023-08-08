@@ -31,6 +31,8 @@
 ###  Инструменты:
 
 <p align="left">
+<a href="https://gulpjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" title="Gulp" alt="Gulp icon" width="36" height="36" /></a>
+<a href="https://developer.chrome.com/docs/devtools/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/yury-sauko/diff-logos-and-images/main/chrome-devtools.svg" title="Chrome DevTools" alt="Chrome DevTools icon" width="36" height="36" /></a>&nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" title="Git" alt="Git icon" width="36" height="36" /></a>&nbsp;
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/yury-sauko/diff-logos-and-images/main/github-mark-white.svg" title="GitHub" alt="GitHub icon" width="36" height="36" /></a>&nbsp;
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" title="Figma" alt="Figma icon" width="36" height="36" /></a>&nbsp;
