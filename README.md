@@ -20,7 +20,7 @@
 ###  Frontend скиллы:
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noopener noreferrer">
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" title="HTML5" alt="HTML5 icon"  width="36" height="36">
 </a>&nbsp;
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" title="CSS3" alt="CSS3 icon" width="36" height="36" /></a>&nbsp;
