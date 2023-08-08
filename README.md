@@ -14,7 +14,7 @@
 <a href="https://t.me/YurysSs"><img src="https://raw.githubusercontent.com/yury-sauko/yurysauko.site/main/dist/icons/Telegram-icon.svg" title="Telegram" alt="Telegram icon" width="32" height="32" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/yurysauko"><img src="https://raw.githubusercontent.com/yury-sauko/yurysauko.site/main/dist/icons/LinkedIn-icon.svg" title="LinkedIn" alt="LinkedIn icon" width="32" height="32" /></a>&nbsp;
 <a href="https://wa.me/375299568636"><img src="https://raw.githubusercontent.com/yury-sauko/yurysauko.site/main/dist/icons/WhatsApp-icon.svg" title="WhatsApp" alt="WhatsApp icon" width="32" height="32" /></a>&nbsp;
-<a href="https://www.codepen.io/YurysSs"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" title="CodePen" alt="CodePen icon" width="30" height="30" /></a>
+<a href="https://www.codepen.io/YurysSs"><img src="https://raw.githubusercontent.com/yury-sauko/diff-logos-and-images/main/codepen.svg" title="CodePen" alt="CodePen icon" width="32" height="32" /></a>
 </p>
 
 ---
