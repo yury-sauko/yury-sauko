@@ -38,7 +38,7 @@
 <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" title="Git" alt="Git icon" width="36" height="36" /></a>&nbsp;
 <a href="https://github.com/"><img src="https://raw.githubusercontent.com/yury-sauko/diff-logos-and-images/main/github-mark-white.svg" title="GitHub" alt="GitHub icon" width="36" height="36" /></a>&nbsp;
 <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" title="Figma" alt="Figma icon" width="36" height="36" /></a>&nbsp;
-<a href="https://www.adobe.com/uk/products/photoshop.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" title="Photoshop" alt="Photoshop icon" width="36" height="36" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html"><img src="https://raw.githubusercontent.com/yury-sauko/diff-logos-and-images/main/photoshop.svg" title="Photoshop" alt="Photoshop icon" width="36" height="36" /></a>
 </p>
 
 ---
