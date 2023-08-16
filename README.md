@@ -26,14 +26,16 @@
 <a href="https://sass-lang.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" title="Sass/SCSS" alt="Sass/SCSS icon" width="36" height="36" /></a>&nbsp;
 <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" title="Bootstrap" alt="Bootstrap icon" width="36" height="36" /></a>&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" title="JavaScript" alt="JavaScript icon" width="36" height="36" /></a>&nbsp;
-<a href="https://jquery.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" title="JQuery" alt="JQuery icon" width="36" height="36" /></a>
+<a href="https://jquery.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" title="JQuery" alt="JQuery icon" width="36" height="36" /></a>&nbsp;
+<a href="https://www.w3.org/Graphics/SVG/"><img src="https://raw.githubusercontent.com/yury-sauko/diff-logos-and-images/main/SVG-logo.svg" title="SVG" alt="SVG icon" width="36" height="36" /></a>
 
 ---
 
 ### Инструменты:
 
 <p align="left">
-<a href="https://gulpjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" title="Gulp" alt="Gulp icon" width="36" height="36" /></a>
+<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/yury-sauko/diff-logos-and-images/main/VS-Code-icon.svg" title="VS Code" alt="VS Code icon" width="36" height="36" /></a>&nbsp;
+<a href="https://gulpjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" title="Gulp" alt="Gulp icon" width="36" height="36" /></a>&nbsp;
 <a href="https://developer.chrome.com/docs/devtools/"><img src="https://raw.githubusercontent.com/yury-sauko/diff-logos-and-images/main/chrome-devtools.svg" title="Chrome DevTools" alt="Chrome DevTools icon" width="36" height="36" /></a>&nbsp;
 <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" title="Git" alt="Git icon" width="36" height="36" /></a>&nbsp;
 <a href="https://github.com/"><img src="https://raw.githubusercontent.com/yury-sauko/diff-logos-and-images/main/github-mark-white.svg" title="GitHub" alt="GitHub icon" width="36" height="36" /></a>&nbsp;
