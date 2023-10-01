@@ -1,10 +1,9 @@
 :wave: Привет, меня зовут Юрий!
 =============================================================================================================================
 
-Мой путь в Веб-разработку начался в конце 2022 года с верстки статичных сайтов. От простого к сложному, методично иду к своей цели - стать Frontend-разработчиком с актуальным стеком технологий.
+Мой путь в Веб-разработку начался в 2022 году с верстки статичных сайтов. От простого к сложному, методично иду к своей цели - стать востребованным Frontend-разработчиком с актуальным стеком технологий.
 
-* На данный момент я изучаю компонентную верстку по БЭМ и JavaScript
-* Мое портфолио :point_right: [yurysauko.site](https://yurysauko.site/#portfolio)
+* На данный момент я изучаю JavaScript и React
 
 * Написать мне на почту :point_right: [![Gmail Badge](https://img.shields.io/badge/-Gmail-darkblue?style=flat&logo=Gmail&logoColor=white)](mailto:yury.savko@gmail.com)
 
@@ -13,8 +12,7 @@
 <p align="left">
 <a href="https://t.me/YurysSs"><img src="https://raw.githubusercontent.com/yury-sauko/yurysauko.site/main/dist/icons/Telegram-icon.svg" title="Telegram" alt="Telegram icon" width="32" height="32" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/yurysauko"><img src="https://raw.githubusercontent.com/yury-sauko/yurysauko.site/main/dist/icons/LinkedIn-icon.svg" title="LinkedIn" alt="LinkedIn icon" width="32" height="32" /></a>&nbsp;
-<a href="https://wa.me/375299568636"><img src="https://raw.githubusercontent.com/yury-sauko/yurysauko.site/main/dist/icons/WhatsApp-icon.svg" title="WhatsApp" alt="WhatsApp icon" width="32" height="32" /></a>&nbsp;
-<a href="https://www.codepen.io/YurysSs"><img src="https://raw.githubusercontent.com/yury-sauko/diff-logos-and-images/main/codepen.svg" title="CodePen" alt="CodePen icon" width="30" height="30" /></a>
+<a href="https://wa.me/375299568636"><img src="https://raw.githubusercontent.com/yury-sauko/yurysauko.site/main/dist/icons/WhatsApp-icon.svg" title="WhatsApp" alt="WhatsApp icon" width="32" height="32" /></a>
 </p>
 
 ---
